@@ -1,4 +1,6 @@
 RENCANA BELAJAR ZIKRI
 
 -Javascript
+ *dasar
+ *lanjutan
 -python
